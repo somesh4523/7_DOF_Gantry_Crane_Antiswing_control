@@ -1,0 +1,6 @@
+build/
+install/
+log/
+ws_crane/build/
+ws_crane/install/
+ws_crane/log/
